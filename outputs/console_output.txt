@@ -1,0 +1,23 @@
+==============================================================
+SWARM INTELLIGENCE - PSO PATH PLANNING
+==============================================================
+Student Name : Umair Zahid
+Roll Number  : 078
+Random Seed  : 78
+Grid Size    : 21 x 21
+Obstacles    : 55
+Start        : (2, 3)
+Goal         : (20, 2)
+Waypoints    : [(np.int64(7), np.int64(3)), (np.int64(11), np.int64(3)), (np.int64(15), np.int64(4)), (np.int64(17), np.int64(5)), (np.int64(18), np.int64(4))]
+Best Cost    : 20.0711
+Path Length  : 20.0711
+Collisions   : 0
+Valid Path   : YES
+
+Best path:
+[(2, 3), (3, 3), (4, 3), (5, 3), (6, 3), (7, 3), (np.int64(8), np.int64(3)), (np.int64(9), np.int64(3)), (np.int64(10), np.int64(3)), (np.int64(11), np.int64(3)), (np.int64(12), np.int64(3)), (np.int64(13), np.int64(4)), (np.int64(14), np.int64(4)), (np.int64(15), np.int64(4)), (np.int64(16), np.int64(5)), (np.int64(17), np.int64(5)), (np.int64(18), np.int64(4)), (np.int64(19), np.int64(3)), (np.int64(20), np.int64(2))]
+
+Saved files:
+  outputs/pso_best_path.png
+  outputs/pso_convergence.png
+  outputs/run_summary.txt
